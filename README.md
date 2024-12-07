@@ -2,6 +2,11 @@
 
 This is a front-end clone of the Razorpay website built using **HTML**, **Tailwind CSS**, and **JavaScript**. The project replicates Razorpay's design and key features, providing a visually appealing and responsive layout.
 
+## Live Demo
+
+Check out the live version of the project here:  
+[https://razorpay-clone-vineet.netlify.app/](https://razorpay-clone-vineet.netlify.app/)
+
 ## Features
 
 - **Responsive Design**: Mobile-friendly layout with adaptive navigation.
@@ -16,6 +21,13 @@ This is a front-end clone of the Razorpay website built using **HTML**, **Tailwi
 - **HTML**: For the structure of the website.
 - **Tailwind CSS**: For styling and responsiveness.
 - **JavaScript**: For interactivity and dynamic features.
+
+## Prerequisites
+
+To run and modify this project, ensure the following tools are installed:
+
+- [Node.js](https://nodejs.org) (v14 or later)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
 
 ## Installation and Setup
 
